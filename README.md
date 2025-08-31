@@ -11,7 +11,7 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 - Nome: Vinicius Aguiar
 - Matricula: 900445
 - Proposta de projeto escolhida: Clone YouTube Homepage
-- Breve descrição sobre seu projeto: Este projeto recria a página inicial do YouTube de forma simplificada, utilizando HTML e CSS.
+- Breve descrição sobre seu projeto: Este projeto recria a página inicial do YouTube de forma simples, utilizando HTML e CSS.
 
 
 ## Print do(s) wireframe(s) criado
